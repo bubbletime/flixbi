@@ -1,8 +1,8 @@
 {
-  "name": "sudo-flix",
+  "name": "Flixbi",
   "version": "4.7.0",
   "private": true,
-  "homepage": "https://github.com/sussy-code/smov",
+  "homepage": "https://flixbi-update.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
